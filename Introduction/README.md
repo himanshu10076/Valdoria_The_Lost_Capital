@@ -34,20 +34,17 @@ The throne still stands but not for long.
 
 ## Game Trailer
 
-Watch our official game trailer to see Valdoria in action:
+Watch my official game trailer to see Valdoria in action:
 
-[!(<img width="1920" height="1020" alt="1" src="https://github.com/user-attachments/assets/e0a39a03-e198-44b9-9ce2-93d5bd0413a9" />
-)](https://youtu.be/4_1ashWP79E)
-
-[![Valdoria Trailer](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
+[<img width="1920" height="1020" alt="1" src="https://github.com/user-attachments/assets/e0a39a03-e198-44b9-9ce2-93d5bd0413a9" />
+](https://youtu.be/4_1ashWP79E)
 *Click the image above to watch the trailer on YouTube*
 
 ### How to Play
-- **Movement**: WASD keys
+- **Movement**: WASD keys, Shift to Sprint, Alt to Walk
 - **Combat**: Left click to attack, Right click to dodge
-- **Skills**: Press Q, E, R for special abilities
 - **Camera**: Mouse to look around
+- **QOL Feature**: Press 1 to change the graphics Setting, Tab to Sheath and Unsheath you weapon
 
 ---
 **Built with ❤️ using Unreal Engine 5**
