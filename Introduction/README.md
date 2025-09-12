@@ -5,10 +5,16 @@
 **Valdoria - The Lost Capital** is an epic action RPG built in Unreal Engine 5, featuring immersive combat mechanics, stunning visuals, and a rich fantasy world waiting to be explored.
 
 ### Game Features
-- **Advanced Combat System**: Fluid hack-and-slash mechanics with combo attacks
-- **Character Progression**: Level up your character with unique stats and abilities  
-- **AI Enemies**: Smart enemy behaviors and challenging boss encounters
-- **Stunning Visuals**: Built with Unreal Engine 5's latest rendering technology
+ ◦ Designed and built a semi-open world RPG spanning 5 unique biomes, each with distinct lighting, terrain, enemy
+ encounters, and boss arenas using UE5’s Nanite landscapes and Quixel assets.  
+ ◦ Engineered a collectible-based progression system where players gather Solar Hearts to unlock new areas and
+ advance 9 years in-game, integrating lore via scattered notes and hidden quests.  
+ ◦ Iteratively improved combat system architecture: transitioned from blueprint duplication → conditional logic →
+ enums → gameplay tags, showcasing clean state-driven design with scalability in mind.  
+ ◦ Achieved real-time performance of 30–45 FPS on mid-tier hardware; actively refining shaders, LODs, and
+ landscape streaming for future stability.  
+ ◦ Currently developing an AI system featuring 10+ enemy archetypes, using Behavior Trees to implement
+ patrol, chase, and attack logic.
 
 ### Story
 A kingdom once ruled by light ... now devoured by shadow"  
@@ -30,7 +36,7 @@ The throne still stands but not for long.
 
 Watch our official game trailer to see Valdoria in action:
 
-[![Valdoria Trailer](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Valdoria Trailer]([https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/4_1ashWP79E))
 
 *Click the image above to watch the trailer on YouTube*
 
