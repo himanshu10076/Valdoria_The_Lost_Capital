@@ -36,7 +36,7 @@ The throne still stands but not for long.
 
 Watch our official game trailer to see Valdoria in action:
 
-[![IMAGE ALT TEXT HERE](<img width="1920" height="1020" alt="1" src="https://github.com/user-attachments/assets/e0a39a03-e198-44b9-9ce2-93d5bd0413a9" />
+[!(<img width="1920" height="1020" alt="1" src="https://github.com/user-attachments/assets/e0a39a03-e198-44b9-9ce2-93d5bd0413a9" />
 )](https://youtu.be/4_1ashWP79E)
 
 [![Valdoria Trailer](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
