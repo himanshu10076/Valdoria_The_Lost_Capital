@@ -11,7 +11,20 @@
 - **Stunning Visuals**: Built with Unreal Engine 5's latest rendering technology
 
 ### Story
-Embark on a journey through the lost capital of Valdoria, where ancient secrets and dangerous creatures await. Uncover the mysteries of this fallen kingdom while mastering combat and magic.
+A kingdom once ruled by light ... now devoured by shadow"  
+Valdoria was once a flourishing empire - ruled by King Valdor, a wise and powerful sovereign. But peace shattered when a great monster (Destruction itself) emerged from beyond the abyss portal, threatening to consume the realm.
+To stop it, a tower was built - the Parhelion Tower, a last defense against Destruction. The war was won ... but the cost was hidden. In the years that followed, the laws of succession changed. Now, every nine years, a
+Solar Child is chosen - crowned as ruler,
+worshipped as divine. 
+You arrive centuries later - nameless, burdened, and bound to a secret mission: "Kill the King". With each Solar Heart you collect, the worldshifts - advancing nine years forward.
+Unravel the mystery of the throne. Discover what lies beyond time. And remember ...
+The monster wasn't the only thing that came through the portal.
+
+Explore a world lost to time.  
+=>Fight brutal foes twisted by rot and forgotten power.  
+=>Collect the hearts of fallen Solar Children and watch the world shift forward - nine years at a time.  
+=>Discover the truth hidden beneath centuries of lies.  
+The throne still stands but not for long.
 
 ## Game Trailer
 
