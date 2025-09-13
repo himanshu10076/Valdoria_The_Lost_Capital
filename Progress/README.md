@@ -128,9 +128,6 @@ Reduces hardcoded logic, making the system modular and easier to extend.
 <img width="800" height="635" alt="image" src="https://github.com/user-attachments/assets/a963c688-8392-4751-8012-624488167086" />
 <img width="800" height="243" alt="image" src="https://github.com/user-attachments/assets/e374bb12-c106-493c-8ae4-53e841b8589a" />
 <img width="800" height="477" alt="image" src="https://github.com/user-attachments/assets/b45cd735-c741-4b32-bb1c-cdf06c88f0a0" />
-<img width="800" height="477" alt="image" src="https://github.com/user-attachments/assets/e57edf5b-31b8-4b5a-af3e-15f9ebde8dae" />
-<img width="800" height="477" alt="image" src="https://github.com/user-attachments/assets/55bce45f-83ea-44d4-a745-824df01570b3" />
-<img width="800" height="477" alt="image" src="https://github.com/user-attachments/assets/bb0fc150-c223-425d-bfca-8030a7580bb0" />
 <img width="1637" height="652" alt="image" src="https://github.com/user-attachments/assets/585ed0ae-44dc-4373-b348-3de12f470a09" />
 <img width="1338" height="723" alt="image" src="https://github.com/user-attachments/assets/6aef5dbd-1239-4ddc-b5fe-8de2f0145834" />
 <img width="1454" height="640" alt="image" src="https://github.com/user-attachments/assets/c2b044c0-7d6c-46fc-b5d2-0394620c434b" />
@@ -144,6 +141,7 @@ Reduces hardcoded logic, making the system modular and easier to extend.
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7315403505962250240?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 *The above video Demonstrates the Lock On System*
+
 ---
 ## AI Enemy System
 
