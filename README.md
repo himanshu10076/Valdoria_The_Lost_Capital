@@ -22,7 +22,7 @@ Complete development journey with blueprints, videos, and technical details
 
 ## 🛠️ Technical Stack
 
-- **Game Engine**: Unreal Engine 5.1
+- **Game Engine**: Unreal Engine 5.5.4
 - **Programming**: Blueprints
 - **Platform**: PC (Windows)
 - **Art Style**: Fantasy/Medieval 
@@ -35,7 +35,7 @@ Complete development journey with blueprints, videos, and technical details
 Developed by **Himanshu Kushwah** as part of game development studies. This project showcases advanced Unreal Engine 5 techniques including combat systems, AI programming, and character progression mechanics.
 
 **Connect with me:**
-- 💻 [LinkedIn](www.linkedin.com/in/himanshu-kushwah-656093353)
+- 💻 [LinkedIn](https://www.linkedin.com/in/himanshu-kushwah-656093353)
 ---
 
 **⭐ Star this repository if you find it interesting!**
