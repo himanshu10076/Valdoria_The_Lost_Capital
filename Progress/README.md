@@ -56,14 +56,12 @@ In the starting i created a small basic map which will lay out the foundation of
 - Sheathing and Unsheating of Weapons 
 
 ### Visual Documentation
-![Stats Blueprint](Blueprints/stats-system-blueprint.png)
-*Character stats management blueprint*
-
-![Stats UI](Screenshots/stats-ui.png)
-*In-game stats display interface*
+<img width="1419" height="695" alt="Screenshot 2025-09-13 213755" src="https://github.com/user-attachments/assets/90549f00-a339-404e-8070-cc54a5cb3eb0" />
+<img width="1893" height="734" alt="Screenshot 2025-09-13 213852" src="https://github.com/user-attachments/assets/5c0d84ac-e74f-4d54-b0b2-903dea519982" />
+*Character Interaction and Combat Toggling blueprint*
 
 ### Video Demonstration
-[![Stats Demo](https://img.youtube.com/vi/STATS_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=STATS_VIDEO_ID)
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7303810712391348225?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 *Character progression and stats in action*
 
 ---
