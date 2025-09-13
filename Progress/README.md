@@ -70,64 +70,23 @@ In the starting i created a small basic map which will lay out the foundation of
 
 ## Basic Combat
 
-### System Design
-Implemented a comprehensive RPG-style character progression system featuring:
-
-- **Health Points (HP)**: Player survivability
-- **Mana Points (MP)**: Magical ability resource
-- **Strength**: Physical damage modifier
-- **Agility**: Movement speed and dodge effectiveness
-- **Intelligence**: Magical damage and mana capacity
-
 ### Implementation Details
-Created a custom Character Stats Component that handles:
-- Stat calculation and modifiers
-- Level-up progression curves
-- UI integration for real-time display
-- Save/load functionality for character persistence
+- Added the attack Animations for the LightSword
+- Directional Dodge
+- Combat Reset
+- Added a hit reaction and sound system for attacking
 
 ### Visual Documentation
-![Stats Blueprint](Blueprints/stats-system-blueprint.png)
-*Character stats management blueprint*
-
-![Stats UI](Screenshots/stats-ui.png)
-*In-game stats display interface*
-
-### Video Demonstration
-[![Stats Demo](https://img.youtube.com/vi/STATS_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=STATS_VIDEO_ID)
-*Character progression and stats in action*
-
-### Combat System Overview
-Developed an engaging hack-and-slash combat system featuring:
-
-- **Combo Attacks**: Chained attack sequences
-- **Dodge Mechanics**: I-frame evasion system
-- **Damage Calculation**: Stat-based damage formulas
-- **Hit Detection**: Precise collision detection
-- **Visual Effects**: Impact particles and screen shake
-
-### Technical Implementation
-- Custom Combat Component for attack logic
-- Animation Montages for attack sequences
-- Hit-box collision detection using sphere traces
-- Damage interface for consistent damage application
-
-### Visual Documentation
-![Combat Blueprint](Blueprints/combat-system-blueprint.png)
-*Main combat logic implementation*
-
-![Hit Detection](Blueprints/hit-detection-blueprint.png)
-*Damage calculation and hit detection system*
+<img width="1278" height="762" alt="Screenshot 2025-09-13 220020" src="https://github.com/user-attachments/assets/b03fa231-efe8-40c4-af0f-bd3f7b442bb8" />
+<img width="1666" height="383" alt="Screenshot 2025-09-13 220110" src="https://github.com/user-attachments/assets/2bdc6b7d-e151-4607-86f0-b7cc22623b53" />
+<img width="1707" height="724" alt="Screenshot 2025-09-13 220128" src="https://github.com/user-attachments/assets/4046a3cd-1231-4050-9d85-674214a5af5c" />
+<img width="1788" height="448" alt="Screenshot 2025-09-13 220428" src="https://github.com/user-attachments/assets/0fa14ed4-1743-4454-bf2d-a9f8fe8886fe" />
+<img width="1292" height="760" alt="Screenshot 2025-09-13 220514" src="https://github.com/user-attachments/assets/5c86854d-4b0d-48bc-91c0-81f07494f5d5" />
 
 ### Video Demonstration
-[![Combat Demo](https://img.youtube.com/vi/COMBAT_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=COMBAT_VIDEO_ID)
-*Combat system showcase*
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7303812183438557203?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
-**Combat Features:**
-- 3-hit combo system
-- Critical hit mechanics
-- Status effects (planned)
-- Weapon variety (in development)
+*Click on the link for visual demonstration*
 
 ---
 
