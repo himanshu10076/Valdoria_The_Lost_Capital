@@ -1,33 +1,14 @@
-# Valdoria - Game Screenshots
+# Area Overview
 
-Explore the visual beauty of Valdoria through these in-game screenshots showcasing various environments, characters, and gameplay moments.
+- Explore the visual beauty of Valdoria through these in-game screenshots showcasing various environments,Cities and Ruins.
+- Currently in the demo you will be in the outskirts of Valdoria which includes area like **Hero's Forest** , **First City of Destruction** , **Flowy fields of Kaneri** , **Lost Desert** , **Village of Valdoria** , **Swamp of the End**.
+- In the next Update You will be able to Explore the vast Kingdom Of Valdoria.
+## Screenshots
 
-## Environment Screenshots
 
-### The Lost Capital
-![Valdoria Main City](screenshot1.png)
-*The majestic ruins of the lost capital*
-
-### Combat Arena
-![Combat Scene](screenshot2.png)
-*Intense battle against formidable enemies*
-
-### Character Design
-![Main Character](screenshot3.png)
-*Our hero ready for adventure*
-
-## Gameplay Screenshots
-
-### Character Stats UI
-![Stats Interface](screenshot4.png)
-*Character progression and stats system*
-
-### Inventory System
-![Inventory](screenshot5.png)
-*Equipment and item management*
 
 ---
 
-**Note:** Screenshots are captured in-game using Unreal Engine 5's built-in screenshot system.
+**Note:** Screenshots are captured in Unreal Engine 5 Editor.
 
 *Total Screenshots: [Update this number as you add more]*
