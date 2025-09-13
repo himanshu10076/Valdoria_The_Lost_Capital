@@ -8,7 +8,7 @@ This section documents the complete development journey of Valdoria, from initia
 1. [Current Progress As of Now : 10 Sep 2025](#Current-State-Of-The-Game)
 2. [Development Starts : 1 Feb 2025 -- Creation of the Basic Map](#Creation-Of-The-First-Map)
 3. [Locomotion and Equipment : 4 Mar 2025](#Locomotion-and-Equipment)
-4. [Combat Mechanics](#combat-mechanics)
+4. [Basic Combat : 7 Mar 2025](#Basic-Combat)
 5. [AI Enemy System](#ai-enemy-system)
 
 ---
@@ -53,7 +53,8 @@ In the starting i created a small basic map which will lay out the foundation of
 ### Implementation Details
 - Added basic locomotion
 - Creating base equipment(LightSword and GreatSword)
-- Sheathing and Unsheating of Weapons 
+- Sheathing and Unsheating of Weapons
+- All of these are made using basic If else conditions.
 
 ### Visual Documentation
 <img width="1419" height="695" alt="Screenshot 2025-09-13 213755" src="https://github.com/user-attachments/assets/90549f00-a339-404e-8070-cc54a5cb3eb0" />
@@ -67,9 +68,7 @@ In the starting i created a small basic map which will lay out the foundation of
 
 ---
 
-## Combat Mechanics
-
-
+## Basic Combat
 
 ### System Design
 Implemented a comprehensive RPG-style character progression system featuring:
