@@ -23,10 +23,8 @@
 <img width="1920" height="1020" alt="15" src="https://github.com/user-attachments/assets/dc6e010d-f518-4872-801d-4604de514b0c" />
 <img width="1920" height="1020" alt="16" src="https://github.com/user-attachments/assets/6c02a796-906c-48e1-944b-fe977fad47c1" />
 <img width="1920" height="1020" alt="18" src="https://github.com/user-attachments/assets/2b22ead6-cb37-427a-bed4-827725a579b1" />
-![19](https://github.com/user-attachments/assets/5d3676fa-0501-4c77-ab6d-d6d2482c5573)
 <img width="3200" height="1727" alt="Test5" src="https://github.com/user-attachments/assets/c4bd2936-87b8-4ce9-baa3-f1b275350456" />
 
 ---
-**Note:** Screenshots are captured in Unreal Engine 5 Editor.
-
-*Total Screenshots: [Update this number as you add more]*
+**Note:** Screenshots are captured in Unreal Engine 5 Editor.  
+*Total Screenshots: [18]*
