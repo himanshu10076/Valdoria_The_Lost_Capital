@@ -5,10 +5,10 @@ This section documents the complete development journey of Valdoria, from initia
 ## Development Timeline
 
 ### 📋 Table of Contents
-1. [Current Progress As of Now : 10 Sep 2025](#Current-State-Of-The-Game)
-2. [Development Starts : 1 Feb 2025 -- Creation of the Basic Map](#Creation-Of-The-First-Map)
-3. [Locomotion and Equipment : 4 Mar 2025](#Locomotion-and-Equipment)
-4. [Basic Combat : 7 Mar 2025](#Basic-Combat)
+1. [Current Progress As of Now](#Current-State-Of-The-Game)
+2. [Development Starts : Creation of the Basic Map](#Creation-Of-The-First-Map)
+3. [Locomotion and Equipment](#Locomotion-and-Equipment)
+4. [Basic Combat](#Basic-Combat)
 5. [AI Enemy System](#ai-enemy-system)
 
 ---
