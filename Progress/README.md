@@ -5,14 +5,14 @@ This section documents the complete development journey of Valdoria, from initia
 ## Development Timeline
 
 ### 📋 Table of Contents
-1. [Development Starts : 1 Feb 2025 -- Creation of the Basic Map](#basic-movements)
+1. [Development Starts : 1 Feb 2025 -- Creation of the Basic Map](#Creation-Of-The-First-Map)
 2. [Character Stats System](#character-stats-system)
 3. [Combat Mechanics](#combat-mechanics)
 4. [AI Enemy System](#ai-enemy-system)
 
 ---
 
-## Basic Movements
+## Creation Of The First Map
 
 ### Implementation Overview
 The foundation of any action game lies in responsive character movement. For Valdoria, I implemented a comprehensive movement system that includes:
