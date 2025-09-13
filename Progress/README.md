@@ -95,13 +95,10 @@ In the starting i created a small basic map which will lay out the foundation of
 ### Implementation Details
 - Added a State Manager System that will remove the individual "if else" conditions and act on the basis of active actions. With the help of This , we can adjust the animations and Stats individually on each weapon.
 - Added The Different Actions(Enumerations) for which the State Manager System will work.
-1. Stats [None, Health, Stamina, Armor]
-2. Character States 
-[Nothing, Attacking, Dodging, General_Action_State, Dead, Disabled]
-3. Character Actions
-[Nothing, GeneralAction, LightAttacks, Dodge, Enter_Combat, Exit_Combat, SprintingAttack, HeavyAttack]
-4. Movement Speed Mode
-[Walking, Jogging, Sprinting]
+    1. Stats [None, Health, Stamina, Armor]
+    2. Character States [Nothing, Attacking, Dodging, General_Action_State, Dead, Disabled]
+    3. Character Actions [Nothing, GeneralAction, LightAttacks, Dodge, Enter_Combat, Exit_Combat, SprintingAttack, HeavyAttack]
+    4. Movement Speed Mode [Walking, Jogging, Sprinting]
 - Targeting System
 - Finally Updating the whole game mechanic to Game Tags
 
@@ -109,21 +106,23 @@ In the starting i created a small basic map which will lay out the foundation of
 
 First i have created the project on basic boolean variables and functions , then with enumerators and finally with Gameplay Tags.
 
-1.Using Booleans and Functions
-▪️ Defining game logic with booleans and functions keeps development simple and easy to debug. It provides a straightforward way to implement mechanics without complex data structures.
+1.Using Booleans and Functions  
+▪️ Defining game logic with booleans and functions keeps development simple and easy to debug. It provides a straightforward way to implement mechanics without complex data structures.  
 ▪️ Booleans are easy to implement but become messy as complexity increases. Managing multiple conditions with booleans can quickly lead to confusing and error-prone logic
-2.Enumerators (Enums) → Better than Booleans
-▪️ Enums improve organization by replacing multiple booleans with a single variable that holds different states. This prevents conflicting conditions and makes code more readable and scalable.
-▪️ Why Enums are better than Booleans?
-🔸 Prevents multiple conflicting states (e.g., instead of isJumping, isRunning, isAttacking, use a single CharacterState).
+
+2.Enumerators (Enums) → Better than Booleans  
+▪️ Enums improve organization by replacing multiple booleans with a single variable that holds different states. This prevents conflicting conditions and makes code more readable and scalable.  
+▪️ Why Enums are better than Booleans?  
+🔸 Prevents multiple conflicting states (e.g., instead of isJumping, isRunning, isAttacking, use a single CharacterState).  
 🔸 Makes debugging easier by having defined states instead of multiple independent flags.
-3.Updating with Gameplay Tags
-▪️ Gameplay Tags allow flexible, data-driven logic by assigning tags to objects and actions. This system is highly scalable and integrates well with Unreal’s ability system.
-▪️ Gameplay Tags outperform both booleans and enums by allowing dynamic, data-driven logic. Unlike enums, tags support multiple conditions at once and can be modified at runtime without code changes.
-▪️ Why Tags are better than Enums and Booleans?
-🔸 More flexible than enums as multiple tags can be assigned dynamically.
-Reduces hardcoded logic, making the system modular and easier to extend.
-🔸 Ideal for complex mechanics like ability systems, buffs, and AI behaviors.
+
+3.Updating with Gameplay Tags  
+▪️ Gameplay Tags allow flexible, data-driven logic by assigning tags to objects and actions. This system is highly scalable and integrates well with Unreal’s ability system.  
+▪️ Gameplay Tags outperform both booleans and enums by allowing dynamic, data-driven logic. Unlike enums, tags support multiple conditions at once and can be modified at runtime without code changes.  
+▪️ Why Tags are better than Enums and Booleans?  
+🔸 More flexible than enums as multiple tags can be assigned dynamically.  
+Reduces hardcoded logic, making the system modular and easier to extend.  
+🔸 Ideal for complex mechanics like ability systems, buffs, and AI behaviors.  
 
 ### Visual Documentation
 <img width="800" height="403" alt="image" src="https://github.com/user-attachments/assets/623b520c-096a-4c00-a8f4-1fd98c93a1ef" />
