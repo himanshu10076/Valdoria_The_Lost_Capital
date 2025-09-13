@@ -61,8 +61,9 @@ In the starting i created a small basic map which will lay out the foundation of
 *Character Interaction and Combat Toggling blueprint*
 
 ### Video Demonstration
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7303810712391348225?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-*Character progression and stats in action*
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7303810712391348225?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>  
+
+*Click on the link for Visual Demonstration*
 
 ---
 
