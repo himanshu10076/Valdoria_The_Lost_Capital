@@ -32,10 +32,6 @@ Explore a world lost to time.
 =>Discover the truth hidden beneath centuries of lies.  
 The throne still stands but not for long.
 
-
-![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/bb064c4b-c1b1-4ca6-9d3c-37cc7cc71467)
-
-
 ## Game Trailer
 
 Watch my official game trailer to see Valdoria in action:
