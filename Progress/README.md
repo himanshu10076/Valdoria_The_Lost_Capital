@@ -10,7 +10,7 @@ This section documents the complete development journey of Valdoria, from initia
 3. [Locomotion and Equipment](#Locomotion-and-Equipment)
 4. [Basic Combat](#Basic-Combat)
 5. [Advance Combat](#Advance-Combat)
-6. [AI Enemy System](#ai-enemy-system)
+6. [Enemy AI](#Enemy-AI)
 
 ---
 ## Current State Of The Game
@@ -140,35 +140,19 @@ Reduces hardcoded logic, making the system modular and easier to extend.
 *The above video Demonstrates the implementation of State Manager System*
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7315403505962250240?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 *The above video Demonstrates the Lock On System*
 
 ---
-## AI Enemy System
+## Enemy AI
 
 ### AI Architecture
-Implemented intelligent enemy behavior using Unreal Engine 5's behavior tree system:
-
-- **State Machine**: Idle, Patrol, Chase, Attack, Death states
-- **Pathfinding**: Navigation mesh integration
-- **Detection System**: Line-of-sight and proximity detection
-- **Combat AI**: Attack patterns and defensive behaviors
-
-### Behavior Implementation
-- Behavior Tree for decision making
-- Blackboard for AI memory and communication
-- Custom AI Controller for enemy logic
-- Pawn Sensing Component for player detection
-
-### Visual Documentation
-![AI Behavior Tree](Blueprints/ai-behavior-tree.png)
-*Enemy AI behavior tree structure*
-
-![AI Blueprint](Blueprints/ai-controller-blueprint.png)
-*AI Controller implementation*
-
-### Video Demonstration
-[![AI Demo](https://img.youtube.com/vi/AI_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=AI_VIDEO_ID)
-*Enemy AI behavior showcase*
+- Setting Up Behaviour Tree and Blackboard
+- Created Basic Ai patrol System with perception
+- Created a Boss Fight
+- Directional Attacks Added: Now, attacking from the front or back stuns the enemy in different directions, adding a tactical layer to combat!
+- Boss AI Overhaul: Built a new boss using behavior trees—this boss actively chases the player on sight. It features multiple attack types:
+Normal attacks for close-range brawling, Medium-range strikes and Powerful rare attacks to keep players on their toes
 
 **AI Features:**
 - Multiple enemy types with unique behaviors
@@ -176,36 +160,26 @@ Implemented intelligent enemy behavior using Unreal Engine 5's behavior tree sys
 - Dynamic difficulty adjustment
 - Boss AI with complex attack patterns
 
----
+### Visual Documentation
+<img width="1919" height="794" alt="image" src="https://github.com/user-attachments/assets/2913c27c-ad8f-479d-baba-a74284557ddc" />
+<img width="1385" height="571" alt="image" src="https://github.com/user-attachments/assets/66dc9975-bd1d-4f6e-b64c-175f33965294" />
+<img width="1919" height="625" alt="image" src="https://github.com/user-attachments/assets/f7be9f71-f5ab-417e-857c-a29737fe079a" />
+<img width="793" height="677" alt="image" src="https://github.com/user-attachments/assets/a4c60c3c-8cac-42b9-b151-44da7ae1fd78" />
+<img width="1342" height="634" alt="image" src="https://github.com/user-attachments/assets/d2fd2424-f964-49f0-961c-aa3cbde5656d" />
 
-## Current Status & Next Steps
+### Video Demonstration
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7359307654952800256?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>  
 
-### Completed ✅
-- Basic character movement and controls
-- Character stats and progression system  
-- Core combat mechanics
-- Basic AI enemy implementation
 
-### In Progress 🔄
-- Boss fight mechanics
-- Advanced AI behaviors
-- Level design and environments
-- Audio integration
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7359309306246168577?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
-### Planned 📋
-- Inventory and equipment system
-- Magic/spell system
-- Quest system
-- Save/load functionality
-- UI/UX improvements
+*Click on the link to open visual Demonstration*
 
 ---
 
 ## Development Tools & Resources
-- **Engine**: Unreal Engine 5.1
-- **Programming**: C++ and Blueprints
-- **Art Assets**: Fab Marketplace + Custom assets
+- **Engine**: Unreal Engine 5.5.4
+- **Programming**: Blueprints
+- **Art Assets**: Fab Marketplace Free Assets
 - **Version Control**: GitHub
 - **IDE**: Visual Studio 2022
-
-**Last Updated**: [Current Date]
