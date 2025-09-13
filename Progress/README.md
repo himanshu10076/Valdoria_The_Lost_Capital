@@ -5,48 +5,51 @@ This section documents the complete development journey of Valdoria, from initia
 ## Development Timeline
 
 ### 📋 Table of Contents
-1. [Development Starts : 1 Feb 2025 -- Creation of the Basic Map](#Creation-Of-The-First-Map)
-2. [Character Stats System](#character-stats-system)
-3. [Combat Mechanics](#combat-mechanics)
-4. [AI Enemy System](#ai-enemy-system)
+1. [Current Progress As of Now : 10 Sep 2025](#Current-State-Of-The-Game)
+2. [Development Starts : 1 Feb 2025 -- Creation of the Basic Map](#Creation-Of-The-First-Map)
+3. [Locomotion and Equipment : 4 Mar 2025](#Locomotion-and-Equipment)
+4. [Combat Mechanics](#combat-mechanics)
+5. [AI Enemy System](#ai-enemy-system)
 
 ---
+## Current State Of The Game
 
+### Implementation Overview
+In the starting i created a small basic map which will lay out the foundation of this game's story and later into the characters movement mechanic. Everything Connects to Parhelion Tower. 
+ 
+---
 ## Creation Of The First Map
 
 ### Implementation Overview
-The foundation of any action game lies in responsive character movement. For Valdoria, I implemented a comprehensive movement system that includes:
+In the starting i created a small basic map which will lay out the foundation of this game's story and later into the characters movement mechanic. Everything Connects to Parhelion Tower. 
 
-- **WASD Movement**: Smooth 8-directional movement
-- **Mouse Look**: Camera control and character orientation
-- **Dodge Rolling**: Tactical evasive maneuvers
-- **Running/Walking**: Variable movement speeds
+<img width="989" height="1914" alt="4" src="https://github.com/user-attachments/assets/ed7300bc-99e9-4c10-b466-8b7df137600b" />
+ 
+---
 
-### Technical Implementation
-The movement system was built using Unreal Engine 5's Enhanced Input System for better input handling and customization.
+## Locomotion and Equipment
 
-**Blueprint Architecture:**
-- Character Movement Component customization
-- Input Action mapping for movement vectors  
-- Animation Blueprint integration for smooth transitions
-- Camera spring arm setup for optimal viewing angles
+### Implementation Details
+- Added basic locomotion
+- Creating base equipment(LightSword and GreatSword)
+- Sheathing and Unsheating of Weapons 
 
 ### Visual Documentation
-![Movement Blueprint](Blueprints/movement-blueprint.png)
-*Core movement logic blueprint*
+![Stats Blueprint](Blueprints/stats-system-blueprint.png)
+*Character stats management blueprint*
+
+![Stats UI](Screenshots/stats-ui.png)
+*In-game stats display interface*
 
 ### Video Demonstration
-[![Movement Demo](https://img.youtube.com/vi/MOVEMENT_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=MOVEMENT_VIDEO_ID)
-*Click to see movement system in action*
-
-**Key Challenges Solved:**
-- Smooth acceleration and deceleration
-- Preventing movement conflicts during dodge rolls
-- Camera clipping issues in tight spaces
+[![Stats Demo](https://img.youtube.com/vi/STATS_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=STATS_VIDEO_ID)
+*Character progression and stats in action*
 
 ---
 
-## Character Stats System
+## Combat Mechanics
+
+
 
 ### System Design
 Implemented a comprehensive RPG-style character progression system featuring:
@@ -74,10 +77,6 @@ Created a custom Character Stats Component that handles:
 ### Video Demonstration
 [![Stats Demo](https://img.youtube.com/vi/STATS_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=STATS_VIDEO_ID)
 *Character progression and stats in action*
-
----
-
-## Combat Mechanics
 
 ### Combat System Overview
 Developed an engaging hack-and-slash combat system featuring:
