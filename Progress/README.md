@@ -5,7 +5,7 @@ This section documents the complete development journey of Valdoria, from initia
 ## Development Timeline
 
 ### 📋 Table of Contents
-1. [Current Progress As of Now](#Current-State-Of-The-Game)
+1. [Current State](#Current-State-Of-The-Game)
 2. [Development Starts : Creation of the Basic Map](#Creation-Of-The-First-Map)
 3. [Locomotion and Equipment](#Locomotion-and-Equipment)
 4. [Basic Combat](#Basic-Combat)
