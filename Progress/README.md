@@ -5,7 +5,7 @@ This section documents the complete development journey of Valdoria, from initia
 ## Development Timeline
 
 ### 📋 Table of Contents
-1. [Basic Movements](#basic-movements)
+1. [Development Starts : 1 Feb 2025 -- Creation of the Basic Map](#basic-movements)
 2. [Character Stats System](#character-stats-system)
 3. [Combat Mechanics](#combat-mechanics)
 4. [AI Enemy System](#ai-enemy-system)
