@@ -14,9 +14,15 @@ This section documents the complete development journey of Valdoria, from initia
 ---
 ## Current State Of The Game
 
-### Implementation Overview
-In the starting i created a small basic map which will lay out the foundation of this game's story and later into the characters movement mechanic. Everything Connects to Parhelion Tower. 
- 
+### Details
+- This Image Depicts the current Game mechanics involved in making the game and it contains:
+  <img width="927" height="480" alt="Screenshot 2025-09-13 205435" src="https://github.com/user-attachments/assets/1bd7a525-0505-4b18-ae9e-d9924bf40f78" />
+- **BP_Combat_Character**: This is the demo player where i have implemented all other functionality to that character engaging.  
+- **Actors**: It Contains all the eqippable items from light sword to greatsword.
+- **AI** : This folder contains Behaviour tree, Blackboard, Ai controller which helps me in creating AI enemies.
+
+
+
 ---
 ## Creation Of The First Map
 
